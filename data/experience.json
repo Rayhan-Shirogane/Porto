@@ -24,7 +24,8 @@
         "company": "Omah IoT",
 		"logo":"images/omahiot.png",
         "position": "industrial internship",
-        "year": "2014",
+        "year": "2024",
         "description": "During my internship at CV. OmahIoT, I was primarily involved in programming IoT prototypes. My main project was developing an automatic irrigation system, where I coded the controller to activate a water pump based on soil moisture sensor data. I also contributed to other IoT projects, gaining hands-on experience with ESP32, sensors, actuators, and relay modules. This opportunity deepened my understanding of IoT technology and automation, and taught me how to implement code into real-world applications. Overall, this experience was a valuable step forward in developing my skills and preparing me for future challenges in the field of IoT."
     }
+
 ]
